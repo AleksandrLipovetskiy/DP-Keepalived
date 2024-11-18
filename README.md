@@ -15,7 +15,7 @@
 
 **Задание 2**
 
-Выполнил насройеи серверов nginx и сервиса keepalived.
+Выполнил насройки серверов nginx и сервиса keepalived.
 
 [Файл настроек keepalived](https://github.com/AleksandrLipovetskiy/DP-Keepalived/blob/main/keepalived.conf)
 
