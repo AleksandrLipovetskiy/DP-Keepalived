@@ -1,2 +1,3 @@
-# DP-Keepalived
-Домашнее задание по теме Disaster recovery и Keepalived
+# Домашнее задание к занятию "Disaster recovery и Keepalived" - Липовецкий Александр
+
+
